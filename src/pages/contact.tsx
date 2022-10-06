@@ -1,5 +1,8 @@
 const ContactPage: React.FC = () => {
-    return <div>Contact</div>
-}
+    return <div>
+        <p>ContactUs</p>
+        </div>
+    }
 
 export default ContactPage
+
