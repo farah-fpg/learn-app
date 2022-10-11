@@ -3,7 +3,7 @@ const LandingPage: React.FC = () => {
     <div>
       <div className="mt-5 mb-5">
         <p className="text-center text-5xl">Hello, </p>
-        <p className="text-center text-5xl">Farah 1</p>
+        <p className="text-center text-5xl">Farah 2</p>
       </div>
 
       <div className="mt-5 mb-5 flex justify-center">
